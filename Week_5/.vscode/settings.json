@@ -1,0 +1,14 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "bootcampx",
+      "database": "bootcampx",
+      "password": "909597",
+      "username": "roneythomas"
+    }
+  ]
+}
